@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terrible Diarrhea
-tag: random
+tag: random digestive-health diarrhea
 comments: true
 ---
 
