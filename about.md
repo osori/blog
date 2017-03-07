@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Ilkyu Ju [il.kju tɕu] — a sophomore studying computers and languages(I love them) at University of Wisconsin-Madison.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Eat,
+sleep, 
+and 💩
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@ilkyu.kr](mailto:me@ilkyu.kr)
