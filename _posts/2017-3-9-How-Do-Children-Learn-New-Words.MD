@@ -5,7 +5,7 @@
   comments: true
 ---
 
-&nbsp;&nbsp; This semester, I am taking a course called *Child Language Acquisition* which is about how children learn(acquire) their langauge(s). Even though my actual interest was about how we acquire second languages, but I took this since SLA was not offered this semester. Anyhow, I think I really like this course, mainly because the actual way children acquire languages is pretty different from the myths that people usually believe (e.g. They mainly rely on their parents/teachers or corrections). Today, I would like to focus on children's lexical acquisition which is how they learn new words.
+&nbsp;&nbsp; This semester, I am taking a course called *Child Language Acquisition* which is about how children learn(acquire) their langauge(s). Even though my actual interest was about how we acquire second languages, I took this since SLA was not offered this semester. Anyhow, I think I really like this course, mainly because the actual way children acquire languages is pretty different from the myths that people usually believe (e.g. They mainly rely on their parents/teachers or corrections). Today, I would like to focus on children's lexical acquisition which is how they learn new words.
 
 ### Observation Theory and Imitation Theory
 
