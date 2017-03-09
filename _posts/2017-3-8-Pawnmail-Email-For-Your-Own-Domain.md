@@ -1,7 +1,7 @@
 ---
   layout: post
   title: My new personal e-mail
-  date:   2017-03-08 19:09:01 +0900
+  date:   2017-03-08 19:09:01
   comments: true
   categories: random tech
 ---
