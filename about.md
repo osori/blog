@@ -8,9 +8,7 @@ I'm Ilkyu Ju [il.kju tɕu] — a sophomore studying computers and languages(I lo
 
 ### More Information
 
-Eat,
-sleep, 
-and :shit:
+Eat,<br />sleep,<br />and :shit:
 
 ### Contact me
 
