@@ -8,7 +8,7 @@ I'm Ilkyu Ju [il.kju tɕu] — a sophomore studying computers and languages(I lo
 
 ### Personal Motto
 
-Eat<br />sleep<br />:shit:
+<center>Eat,<br />sleep,<br />and :shit:</center>
 
 ### Contact me
 
