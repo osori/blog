@@ -10,7 +10,7 @@ I'm Ilkyu Ju [il.kju tɕu] — a sophomore studying computers and languages(I lo
 
 Eat,
 sleep, 
-and 💩
+and :shit:
 
 ### Contact me
 
