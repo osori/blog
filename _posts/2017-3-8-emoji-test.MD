@@ -1,6 +1,6 @@
 ---
-  layout:post
+  layout: post
   title: emoji test
-  comments:true
+  comments: true
 ---
 :+1:!
