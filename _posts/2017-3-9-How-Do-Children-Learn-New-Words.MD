@@ -14,7 +14,7 @@
   
   Now, let's talk about the Imitation Theory. This, in fact, was one of the earliest theory on CLA and what most people believe. It claims that children learn words by imitating adults' speech. We experience a lot of moments where the mom keeps saying "mama" and the child finally is able to follow their mom's "mama." Yes, imitation may be a part of lexical acquisition. But, children, when they reach a certain age, are able to produce many, many different **novel sentences**. It won't be the case where children heard all those sentences from other people since the number of unique sentences they can make is just infinite.
   
-  There's one more evidence that refutes the Imitation Theory that I would like to discuss. It's the children's tendency to **overgeneralize (overregularize) the grammar rules**. Generally, children extend the grammatical rules to irregular words. For instance, they will say 'goed' as the past tense form of the verb 'go'. *Marcus, G., Pinker, S., Ullman, M., Hollander, M., Rosen, T., Xu, F., & Clahsen, H. (1992).*
+  There's one more evidence that refutes the Imitation Theory that I would like to discuss. It's the children's tendency to **overgeneralize (overregularize) the grammar rules**. Generally, children extend the grammatical rules to irregular words. For instance, they will say 'goed' as the past tense form of the verb 'go'. *See (Marcus, G., Pinker, S., Ullman, M., Hollander, M., Rosen, T., Xu, F., & Clahsen, H., 1992).*
   
 ### Ability to acquire languages is an *innate* ability
 
