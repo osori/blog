@@ -6,7 +6,7 @@
   categories: random tech
 ---
 
-I recently realized that my gmail was subscribed to too many promotional emails. I occassionally missed important emails that came to my gmail. This was why I had preferred using my school email (get less spams, less likely to miss important e-mails), but I realized at some point that I cannot use it anymore if I graduate. So this is how I ended up wanting my solely-personal email which also reflects my identity by using my domain name. 
+I recently realized that my gmail was subscribed to too many promotional emails. Because of this I occassionally missed important emails that came to my gmail. This was why I had preferred using my school email (get less spams, less likely to miss important e-mails), but I realized at some point that I cannot use it anymore if I graduate. So this is how I ended up wanting my solely-personal email which also reflects my identity by using my domain name. 
 
 
 I picked me@ilkyu.kr as the e-mail address which I am really satisfied with. Let's say a stranger saw this e-mail address. The address is so intuitive that they will think that it must be ilkyu's, or, at least, of someone who owns the domain name ilkyu.kr. Overall, I love this e-mail address and I've been sharing it with my friends. I even ran a raffle where people participate by sending a meaningful e-mail to me. I have several participants but they seem to have forgotten about it, so I'm not giving out prizes lol. I'm such a good troll. *troll face*
